@@ -14,4 +14,12 @@ In her case, there are a few habits and characteristics that are important:
 ## Questions Test 2
 
 - Train je maar 1 keer per dag of kan je ook meerdere trainingen hebben?
--
+
+## Results Test 2
+
+- Buttons for navigation are good, very nice that feedback is immediately given at change.
+- Headinglevel should be adjusted
+- Some way to navigate through the year quickly (and not into negative weeknumbers)
+- Date picker would be nice for interesting dates
+- Today and tomorrow are most important, she usually looks for how late and what activity. Further down the road she mostly wants to know what activity in global.
+- Some contrast in focussed element is nice to navigate faster.
