@@ -1,0 +1,32 @@
+{
+	"name": "human-centered-design-2122",
+	"version": "1.0.0",
+	"description": "Human Centered Design is een  methode voor het ontwerpen van gebruiksvriendelijke interactieve toepassingen.",
+	"main": "server.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node server.js",
+		"dev": "nodemon server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/cmda-minor-web/human-centered-design-2122.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/cmda-minor-web/human-centered-design-2122/issues"
+	},
+	"homepage": "https://github.com/cmda-minor-web/human-centered-design-2122#readme",
+	"dependencies": {
+		"dotenv": "^16.0.0",
+		"ejs": "^3.1.6",
+		"express": "^4.17.3",
+		"moment": "^2.29.3",
+		"multer": "^1.4.4"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.15"
+	}
+}

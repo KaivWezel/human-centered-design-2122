@@ -1,0 +1,41 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: sans-serif;
+}
+
+body {
+	background: black;
+	padding: 1rem;
+	color: white;
+}
+
+.heading {
+	display: flex;
+	width: 100%;
+	padding: 1rem;
+	justify-content: space-around;
+	align-items: center;
+}
+h3 {
+	font-size: 4rem;
+}
+
+button {
+	all: unset;
+	font-size: 4rem;
+	background: white;
+	color: black;
+	padding: 2rem;
+}
+
+.weekScheme {
+	font-size: 2.5rem;
+	width: max-content;
+	margin: auto;
+}
+
+.weekScheme div {
+	margin-bottom: 0.5rem;
+}
