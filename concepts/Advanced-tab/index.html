@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link
+			rel="stylesheet"
+			href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
+			integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g=="
+			crossorigin="anonymous"
+			referrerpolicy="no-referrer"
+		/>
+		<link rel="stylesheet" href="index.css" />
+		<title>Document</title>
+	</head>
+	<body>
+		<header>
+			<h1 tabindex="0">Schema Larissa Klaassen</h1>
+		</header>
+		<main>
+			<section class="quickAccess">
+				<ol class="today calendar" aria-label="Agenda vandaag">
+					<li><span>10:00 tot 12:00</span>: Bespreken weekplanning</li>
+					<li><span>12:00 tot 14:00</span>: Krachttraining</li>
+					<li><span>16:00 tot 17:00</span>: Vrije training</li>
+				</ol>
+				<ol class="tomorrow calendar" aria-label="Agenda Morgen">
+					<li><span>09:00 tot 10:00</span>: Baantrainig</li>
+					<li><span>11:00 tot 14:00</span>: Starttraining</li>
+					<li><span>15:00 tot 16:00</span>: Boodschappen</li>
+					<li><span>17:00 tot 18:00</span>: Verjaardag</li>
+				</ol>
+			</section>
+			<section class="weekScheme" title="Trainingsschema week 15">
+				<div class="heading">
+					<h2 tabindex="0" class="week" aria-live="assertive">Week 15</h2>
+					<button class="prevWeek" aria-label="week terug">
+						<i class="fa-solid fa-chevron-left"></i>
+					</button>
+					<button class="nextWeek" aria-label="week verder">
+						<i class="fa-solid fa-chevron-right"></i>
+					</button>
+				</div>
+				<div tabindex="0">Maandag, Krachttraining</div>
+				<div tabindex="0">Dinsdag, Plyometrische training</div>
+				<div tabindex="0">Woensdag, Baantraining</div>
+				<div tabindex="0">Donderdag, Rustdag</div>
+				<div tabindex="0">vrijdag, Plyometrische training</div>
+				<div tabindex="0">zaterdag, Krachttraining</div>
+				<div tabindex="0">Zondag, Starttraining</div>
+			</section>
+		</main>
+		<script
+			src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.3/moment-with-locales.min.js"
+			integrity="sha512-vFABRuf5oGUaztndx4KoAEUVQnOvAIFs59y4tO0DILGWhQiFnFHiR+ZJfxLDyJlXgeut9Z07Svuvm+1Jv89w5g=="
+			crossorigin="anonymous"
+			referrerpolicy="no-referrer"
+		></script>
+		<script src="./js/app.js" defer></script>
+	</body>
+</html>

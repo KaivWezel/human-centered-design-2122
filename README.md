@@ -1,6 +1,6 @@
 # Trainingsoverzich Larissa Klaassen
 
-## The context of Larissa Klaassen
+## The context of Larissa Klaassen (test 1)
 
 Larissa can only see for 1% of human sight. Therefore, visually appealing en color coded schemes are of no use to her. Instead she uses a screen reader to consume webpages en applications. Additionally she can use a 'brailleleesregel' but that is not somehting she does often.
 In her case, there are a few habits and characteristics that are important:
@@ -23,3 +23,8 @@ In her case, there are a few habits and characteristics that are important:
 - Date picker would be nice for interesting dates
 - Today and tomorrow are most important, she usually looks for how late and what activity. Further down the road she mostly wants to know what activity in global.
 - Some contrast in focussed element is nice to navigate faster.
+
+TODO:
+
+- Today and tomorrow elaborated view
+- Add datepicker
