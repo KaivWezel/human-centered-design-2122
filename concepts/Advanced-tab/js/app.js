@@ -2,7 +2,7 @@ console.log("hij werkt");
 
 const prevBtn = document.querySelector("button.prevWeek");
 const nextBtn = document.querySelector("button.nextWeek");
-const weekDisplay = document.querySelector(".week");
+const weekDisplay = document.querySelector("#week");
 const week = document.querySelector(".weekScheme");
 let weekCount = 15;
 
@@ -12,7 +12,7 @@ prevBtn.addEventListener("click", (e) => {
 	} else {
 		weekCount--;
 	}
-	weekDisplay.innerText = `Week ${weekCount}`;
+	weekDisplay.value = weekCount;
 	week.setAttribute("title", `Trainingsschema week ${weekCount}`);
 });
 
@@ -22,6 +22,6 @@ nextBtn.addEventListener("click", (e) => {
 	} else {
 		weekCount++;
 	}
-	weekDisplay.innerText = `Week ${weekCount}`;
+	weekDisplay.value = weekCount;
 	week.setAttribute("title", `Trainingsschema week ${weekCount}`);
 });

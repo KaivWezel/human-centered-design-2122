@@ -26,5 +26,6 @@ In her case, there are a few habits and characteristics that are important:
 
 TODO:
 
-- Today and tomorrow elaborated view
 - Add datepicker
+- Today and tomorrow elaborated view
+  - enable focusstate with tab & other keys maybe

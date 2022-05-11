@@ -45,6 +45,21 @@ body {
 	justify-content: space-around;
 	align-items: center;
 }
+
+.heading label {
+	display: flex;
+}
+
+.heading input {
+	padding: 1rem;
+	font-size: 3rem;
+	margin: 0 1rem;
+}
+
+.heading input::-webkit-inner-spin-button {
+	display: none;
+}
+
 h2 {
 	font-size: 4rem;
 }
