@@ -19,33 +19,44 @@
 			<h1 tabindex="0">Schema Larissa Klaassen</h1>
 		</header>
 		<main>
-			<section class="quickAccess">
+			<section class="quickAccess" aria-label="Snelle agenda">
 				<div>
-					<h3>Vandaag</h3>
-					<ol class="today calendar" aria-label="Agenda vandaag">
-						<li><span>10:00 tot 12:00</span>: Bespreken weekplanning</li>
-						<li><span>12:00 tot 14:00</span>: Krachttraining</li>
-						<li><span>16:00 tot 17:00</span>: Vrije training</li>
+					<h3 tabindex="0">Vandaag</h3>
+					<ol
+						class="today calendar"
+						aria-label="Agenda vandaag"
+						tabindex="0"
+						lang="nl"
+					>
+						<li tabindex="0">
+							<span>Van 10 tot 12:00</span>: Bespreken weekplanning
+						</li>
+						<li tabindex="0"><span>Van 12 tot 14:00</span>: Krachttraining</li>
+						<li tabindex="0"><span>Van 16 tot 17:00</span>: Vrije training</li>
 					</ol>
 				</div>
 				<div>
-					<h3>Morgen</h3>
-					<ol class="tomorrow calendar" aria-label="Agenda Morgen">
-						<li><span>09:00 tot 10:00</span>: Baantrainig</li>
-						<li><span>11:00 tot 14:00</span>: Starttraining</li>
-						<li><span>15:00 tot 16:00</span>: Boodschappen</li>
-						<li><span>17:00 tot 18:00</span>: Verjaardag</li>
+					<h3 tabindex="0">Morgen</h3>
+					<ol
+						class="tomorrow calendar"
+						aria-label="Agenda Morgen"
+						tabindex="0"
+						lang="nl"
+					>
+						<li tabindex="0"><span>9 tot 10:00</span>: Baantrainig</li>
+						<li tabindex="0"><span>11 tot 14:00</span>: Starttraining</li>
+						<li tabindex="0"><span>15 tot 16:00</span>: Boodschappen</li>
+						<li tabindex="0"><span>17:00 tot 18:00</span>: Verjaardag</li>
 					</ol>
 				</div>
 			</section>
 			<section class="weekScheme" title="Trainingsschema week 15">
 				<div></div>
 				<div class="heading">
-					<h2 tabindex="0" class="week" aria-live="assertive">
-						<label
-							>Week <input type="number" value="15" name="week" id="week"
-						/></label>
-					</h2>
+					<h2 class="week" aria-live="assertive">Week 15</h2>
+					<label aria-live="polite"
+						>Week <input type="number" value="15" name="week" id="week"
+					/></label>
 					<button class="prevWeek" aria-label="week terug">
 						<i class="fa-solid fa-chevron-left"></i>
 					</button>
