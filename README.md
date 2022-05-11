@@ -26,6 +26,14 @@ In her case, there are a few habits and characteristics that are important:
 
 TODO:
 
-- Add datepicker
 - Today and tomorrow elaborated view
   - enable focusstate with tab & other keys maybe
+
+## Results test 3
+
+- Fijn gedtailleerde view van vandaag en morgen
+- Knoppen en immediate feedback is fijn.
+- Date-picker kan beter onder het weekoverzicht om verwarring te voorkomen dat de week leeg is.
+  - week 'x' -> content -> week verder/terug
+- Dezelfde detaillering van vandaag en morgen zou ook fijn zijn in weekoverzicht
+  - Met een linkje dan vanuit overzicht naar gedetailleerde versie.
