@@ -143,7 +143,7 @@ Wat ik wel leuk had gevonden, maar nog geen tijd voor had gevonden is om kleine 
 
 ## Bronnen
 
-- [MDN](https://developer.mozilla.org/en-US/)
-- [Tink](https://tink.uk/how-screen-readers-navigate-data-tables/)
-- [W3](https://www.w3.org/WAI/tutorials/tables/)
-- [MDN ARIA](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
+- [MDN](https://developer.mozilla.org/en-US/) Voor algemene code dingetjes
+- [Tink](https://tink.uk/how-screen-readers-navigate-data-tables/) Voor het gebruik van HTML-tables met screenreaders
+- [W3](https://www.w3.org/WAI/tutorials/tables/) Voor het stylen van de HTML-table
+- [MDN ARIA](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA) Voor het gebruik van ARIA voor screen readers.
