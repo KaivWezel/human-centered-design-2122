@@ -2,12 +2,12 @@
 
 ## Contents
 
-- [Installation](##installation)
-- [User scenario](##user-scenario)
-- [Larissa Klaassen](##larissa-klaassen)
-  - [Huidige situatie](###huidige-situatie)
-- [Eerste meeting](##eerste-meeting)
-  - [Concept](###concept)
+- [Installation](#installation)
+- [User scenario](#user-scenario)
+- [Larissa Klaassen](#larissa-klaassen)
+  - [Huidige situatie](#huidige-situatie)
+- [Eerste meeting](#eerste-meeting)
+  - [Concept](#concept)
   - Resultaten
 - Tweede meeting
   - Concept
