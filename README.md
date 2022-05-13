@@ -125,6 +125,7 @@ De derde test was het meest nuttig en bracht mij richting een totaalidee voor La
 - De feedback die meteen wordt gegeven is nog steeds erg fijn.
 - Week-picker is fijn maar door de knoppen onder de weken te zetten kan het verwarring voorkomen.
   - week 'x' -> content -> week verder/terug (navigatie); in die volgorde
+- Ze gaat de weken eigenlijk door, door terug te tellen vanaf een evenement (toernooi). Vanaf daar telt ze eigenlijk nog hoeveel weken er over zijn.
 
 ## Wat verder?
 
