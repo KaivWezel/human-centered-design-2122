@@ -2,20 +2,31 @@
 
 ## Contents
 
-- [Installation](#installation)
-- [User scenario](#user-scenario)
-- [Larissa Klaassen](#larissa-klaassen)
-  - [Huidige situatie](#huidige-situatie)
-- [Eerste meeting](#eerste-meeting)
-  - [Concept](#concept)
-  - Resultaten
-- Tweede meeting
-  - Concept
-  - Resultaten
-- Laatste meeting
-  - Concept
-  - Resultaten
-- Exclusive design
+- [Trainingsoverzich Larissa Klaassen](#trainingsoverzich-larissa-klaassen)
+  - [Contents](#contents)
+  - [Installation](#installation)
+  - [User scenario](#user-scenario)
+  - [Larissa Klaassen](#larissa-klaassen)
+    - [Huidige situatie](#huidige-situatie)
+  - [Eerste meeting](#eerste-meeting)
+    - [Concept](#concept)
+    - [Resultaten test 1](#resultaten-test-1)
+      - [Bevindingen](#bevindingen)
+  - [Tweede meeting](#tweede-meeting)
+    - [Concept](#concept-1)
+    - [Resultaten test 2](#resultaten-test-2)
+      - [Bevindingen](#bevindingen-1)
+  - [Laatste Meeting](#laatste-meeting)
+    - [Concept](#concept-2)
+    - [Resultaten test 3](#resultaten-test-3)
+      - [Bevindingen](#bevindingen-2)
+  - [Wat verder?](#wat-verder)
+  - [Exclusive design principles principles](#exclusive-design-principles-principles)
+    - [Study situation](#study-situation)
+    - [Prioritise identity](#prioritise-identity)
+    - [Ignore conventions](#ignore-conventions)
+    - [Add Nonsense](#add-nonsense)
+  - [Bronnen](#bronnen)
 
 ## Installation
 
