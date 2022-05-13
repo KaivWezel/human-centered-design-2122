@@ -45,7 +45,7 @@ Larissa is topsporter en heeft onlangs nog goud gewonnen op de paralympische spe
 
 ### Huidige situatie
 
-De huidige sitautie is iets anders dan beschreven in de opdracht. Zo hebben we helaas ook geen traningsschema kunnen krijgen dat kleurgecodeerd was. In plaats daarvan hebben we de situatie van Larissa zelf goed moeten uithoren om de opdracht te kunnen aanscherpen. In haar huidige ritme is ze elke dag aan het trainen en daar heeft ze schema's voor. Echter, de huidige, nieuwe, coach weet nog niet zoveel van het baanwielrennen als zijzelf vindt ze en daarom trekt ze vaak haar eigen plan. Het omzetten van de kleurenschema's was dan ook niet per se een _must_ voor haar.
+De huidige sitautie is iets anders dan beschreven in de opdracht. Zo hebben we helaas ook geen traningsschema kunnen krijgen dat kleurgecodeerd was. In plaats daarvan hebben we de situatie van Larissa zelf goed moeten uithoren om de opdracht te kunnen aanscherpen. In haar huidige ritme is ze elke dag aan het trainen en daar heeft ze schema's voor. Echter, de huidige, nieuwe, coach weet nog niet zoveel van het baanwielrennen als zijzelf vindt ze en daarom trekt ze vaak haar eigen plan. Het omzetten van de kleurenschema's was dan ook niet per se een _must_ voor haar. Het gaat vooral om het snel kunnen zien van geplande trainingen en dan kunnen beoordelen of ze het daarmee eens is.
 
 ## Eerste meeting
 
