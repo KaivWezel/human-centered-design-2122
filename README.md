@@ -160,3 +160,4 @@ Wat ik wel leuk had gevonden, maar nog geen tijd voor had gevonden is om kleine 
 - [Tink](https://tink.uk/how-screen-readers-navigate-data-tables/) Voor het gebruik van HTML-tables met screenreaders
 - [W3](https://www.w3.org/WAI/tutorials/tables/) Voor het stylen van de HTML-table
 - [MDN ARIA](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA) Voor het gebruik van ARIA voor screen readers.
+- [Exclusive Design Principles](https://vasilis.nl/nerd/exclusive-design-principles/) Voor uitleg van de exclusive design principles.
