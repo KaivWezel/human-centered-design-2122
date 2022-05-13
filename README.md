@@ -26,6 +26,9 @@
     - [Prioritise identity](#prioritise-identity)
     - [Ignore conventions](#ignore-conventions)
     - [Add Nonsense](#add-nonsense)
+  - [Reflectie](#reflectie)
+    - [Do's](#dos)
+  - [Don'ts](#donts)
   - [Bronnen](#bronnen)
 
 ## Installation
@@ -153,6 +156,29 @@ Hoewel de conventie van een HTML tabel voor een screenreader goed is voor de scr
 Hoewel nonsense leuk klinkt, vind ik het niet gepast in deze applicatie. Ik erover nagedacht om de screenreader leuke/grappige tekstjes te laten voorlezen maar dat is een keer leuk. Stel dat je de app echt in gebruik neemt, dan wordt het vanzelf vervelend. De app dient om snel je agenda te kunnen checken en vooral dan vandaag en morgen. Daar wil je zo min mogelijk nonsense bij hebben en zo snel mogelijk weten wat er moet gebeuren zodat je door kan met de orde van de dag en zo nodig haast kan maken.
 
 Wat ik wel leuk had gevonden, maar nog geen tijd voor had gevonden is om kleine spraakberichtjes toe te voegen. Wanneer een afspraak bijvoorbeeld bijna begint, te zeggen dat ze haast moet gaan maken of juist dat ze nog even kan blijven zitten wanneer het nog even duurt tot de volgende afspraak. Dit was nog een leuke nonsense feature geweest maar hier heb ik helaas dus geen tijd voor gehad.
+
+## Reflectie
+
+Het testen met Larissa was leuk om te doen, ze is een betrokken en meewerkend persoon dat graag onderzoekt wat er beter kan. De van de drie keer dat ik getest heb heb ik twee keer een aardig gerichte test kunnen doen. Hoewel dit meer om de app ging dan om het testen waren de tests wel belangrijk.
+Wat ik merkte tijdens de twee gerichte tests en de feedback is dat Larissa met haar technische kennis ging denken. Attributen die niet goed stonden vielen op en in interactie had ze hier en daar wat toe te voegen, maar ik moest daarom soms iets algemenere vragen stellen om erachter te komen wat ze dan echt zou willen.
+
+Om een voorbeeld te geven: Wanneer tijdens test 2 de weekagenda makkelijk te doorzoeken was gaf ze als verbetering op om een soort datepicker toe te voegen zodat ze snel naar interessante data kon kijken.
+Mij leek een datepicker met een screenreader een mega nachtmerrie dus ik vroeg om welke data het dan ging. Welke data zij voor jou het meest interessant. Als antwoord gaf zij vooral vandaag en morgen in detail omdat de planning niet echt in mijn hoofd zit, de rest is globaal handig om te weten.
+
+### Do's
+
+Wat handig was tijdens het testen
+
+- Opdrachten verzinnen die voor jou app duidelijk maken of de gebruiker haar doelen kan bereiken
+- De gebruiker zelf door de app laten gaan en eigenlijk geen tot weinig toelichting geven.
+- Vragen wat de gebruiker denkt tijdens het gebruik.
+- Rustig doorvragen over waarom ze iets doet of mist in de app.
+
+## Don'ts
+
+- De gebruiker toelichting/aanwijzingen geven voor de test.
+- Jezelf indekken door te zeggen 'dit' is nog niet af of werkt nog niet
+- Te snel zeggen 'dankjewel' maar nog 2 of 3 vragen extra stellen.
 
 ## Bronnen
 
